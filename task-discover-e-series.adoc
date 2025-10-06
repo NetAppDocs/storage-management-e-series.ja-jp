@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-e-series.html 
 keywords: e-series, cluster, discover, manage, discovering, discover e-series 
-summary: NetAppコンソールは、オンプレミス環境内の E シリーズ システムを検出できます。  E シリーズ システムをコンソールに追加すると、ハイブリッド マルチクラウド環境全体のデータを完全に表示できるようになります。 
+summary: NetApp Consoleは、オンプレミス環境内の E シリーズ システムを検出できます。  E シリーズ システムをコンソールに追加すると、ハイブリッド マルチクラウド環境全体のデータを完全に表示できるようになります。 
 ---
 = Eシリーズシステムの詳細
 :hardbreaks:
@@ -14,16 +14,16 @@ summary: NetAppコンソールは、オンプレミス環境内の E シリー�
 
 
 [role="lead"]
-E シリーズ システムをNetAppコンソールに追加すると、コンソールから E シリーズ システムを管理し、ハイブリッド マルチクラウド環境全体のデータ インフラストラクチャの完全なビューを取得できるようになります。
+E シリーズ システムをNetApp Consoleに追加すると、コンソールから E シリーズ システムを管理し、ハイブリッド マルチクラウド環境全体のデータ インフラストラクチャの完全なビューを取得できるようになります。
 
-.必要なNetAppコンソールロール
-組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステムヘルススペシャリスト。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetAppコンソールのアクセス ロールについて学習します。"^]
+.必要なNetApp Consoleロール
+組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステムヘルススペシャリスト。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetApp Consoleのアクセス ロールについて学習します。"^]
 
 .開始する前に
 次のものが必要です:
 
-* クラウド プロバイダーまたはオンプレミスにインストールされ、E シリーズ システムへのネットワーク接続を備えたNetAppコンソール エージェント。コンソール エージェントをインストールするには、組織管理者のロールが必要です。組織にコンソール エージェントがあるかどうかわからない場合、またはエージェントを作成する必要がある場合は、コンソール管理者に問い合わせてください。 https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["組織の管理者に問い合わせてください。"^]
-* ストレージ システム コントローラーのドメイン名または IP アドレス。
+* クラウド プロバイダーまたはオンプレミスにインストールされ、E シリーズ システムへのネットワーク接続を備えたNetApp Consoleエージェント。コンソール エージェントをインストールするには、組織管理者のロールが必要です。組織にコンソール エージェントがあるかどうかわからない場合、またはエージェントを作成する必要がある場合は、コンソール管理者に問い合わせてください。 https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["組織の管理者に問い合わせてください。"^]
+* ストレージ システム コントローラのドメイン名または IP アドレス。
 * E シリーズ システムの管理者資格情報。
 
 

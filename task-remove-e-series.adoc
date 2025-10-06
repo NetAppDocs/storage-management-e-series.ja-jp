@@ -2,9 +2,9 @@
 sidebar: sidebar 
 permalink: task-remove-e-series.html 
 keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment, remove system 
-summary: コンソールから E シリーズ システムを管理する必要がなくなった場合は、 NetAppコンソールから E シリーズ システムを削除します。 
+summary: コンソールから E シリーズ システムを管理する必要がなくなった場合は、 NetApp Consoleから E シリーズ システムを削除します。 
 ---
-= NetAppコンソールからEシリーズを削除する
+= NetApp ConsoleからEシリーズを削除する
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -14,12 +14,12 @@ summary: コンソールから E シリーズ システムを管理する必要�
 
 
 [role="lead"]
-NetAppコンソールから E シリーズ システムを管理する必要がなくなった場合は、そのシステムを削除します。
+NetApp Consoleから E シリーズ システムを管理する必要がなくなった場合は、そのシステムを削除します。
 
-.必要なNetAppコンソールロール
-組織管理者、フォルダーまたはプロジェクト管理者、またはストレージ管理者。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetAppコンソールのアクセス ロールについて学習します。"^]
+.必要なNetApp Consoleロール
+組織管理者、フォルダーまたはプロジェクト管理者、またはストレージ管理者。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["NetApp Consoleのアクセス ロールについて学習します。"^]
 
-NetAppコンソール システムを削除しても、E シリーズ システムには影響しません。いつでも再発見できます。
+NetApp Consoleシステムを削除しても、E シリーズ システムには影響しません。いつでも再発見できます。
 
 .手順
 . ナビゲーション メニューから、*ストレージ > 管理* を選択します。

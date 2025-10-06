@@ -24,7 +24,7 @@ sidebar:
     entries:
     - title: Eシリーズシステムを見る
       url: "/task-view-e-series.html"
-    - title: NetAppコンソールからシステムを削除する
+    - title: NetApp Consoleからシステムを削除する
       url: "/task-remove-e-series.html"
   - title: 知識とサポート
     entries:

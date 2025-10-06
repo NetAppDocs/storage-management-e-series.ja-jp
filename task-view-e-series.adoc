@@ -16,7 +16,7 @@ summary: E シリーズ システムを検出したら、容量の配分、ボ�
 [role="lead"]
 E シリーズ システムを検出したら、容量の配分、ボリューム、ホストに関する詳細を表示できます。
 
-.必要なNetAppコンソールロール
+.必要なNetApp Consoleロール
 組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステムヘルススペシャリスト。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["コンソール アクセス ロールについて学習します。"^]
 
 .手順
