@@ -1,0 +1,29 @@
+---
+indexpage:
+  title: BlueXPを使用したEシリーズ管理
+  summary: NetAppコンソールから E シリーズ システムを検出し、ハイブリッド マルチクラウド全体のデータの完全なビューを取得します。
+  keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-management-family
+  lead: NetAppコンソールから E シリーズ システムを検出し、ハイブリッド マルチクラウド全体のデータを完全に表示します。
+  tiles:
+  - title: 始めましょう
+    links:
+    - title: Eシリーズシステムの詳細
+      url: "/task-discover-e-series.html"
+  - title: Eシリーズシステムの管理
+    links:
+    - title: Eシリーズシステムを見る
+      url: "/task-view-e-series.html"
+    - title: NetAppコンソールからシステムを削除する
+      url: "/task-remove-e-series.html"
+  - title: 関連リンク
+    links:
+    - title: NetAppコンソール外での管理に関するEシリーズのドキュメント
+      url: https://docs.netapp.com/us-en/e-series-family/
+  - title: ブログとコミュニティ
+    links:
+    - title: NetAppコンソール
+      url: https://www.netapp.com/console
+    - title: NetAppデータサービス
+      url: https://www.netapp.com/data-services/
+    - title: NetAppコミュニティ
+      url: https://community.netapp.com/

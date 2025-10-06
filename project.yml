@@ -1,0 +1,39 @@
+---
+settings:
+  name: E-Series
+  platform: cloud
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,de-de,es-es,fr-fr,it-it,pt-br,ko-kr,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: Eシリーズのドキュメント
+    url: "/index.html"
+  - title: リリース ノート
+    entries:
+    - title: 新機能
+      url: "/whats-new.html"
+  - title: 始めましょう
+    entries:
+    - title: Eシリーズシステムの詳細
+      url: "/task-discover-e-series.html"
+  - title: Eシリーズシステムの管理
+    entries:
+    - title: Eシリーズシステムを見る
+      url: "/task-view-e-series.html"
+    - title: NetAppコンソールからシステムを削除する
+      url: "/task-remove-e-series.html"
+  - title: 知識とサポート
+    entries:
+    - title: サポートに登録する
+      url: "/task-support-registration.html"
+    - title: ヘルプを受ける
+      url: "/task-get-help.html"
+  - title: 法律上の表示
+    url: "/legal-notices.html"
+product-family:
+  name: Storage Management
+  repo: storage-management-family

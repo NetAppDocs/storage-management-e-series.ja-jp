@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: whats-new.html 
+keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, e-series' 
+summary: BlueXPでの E シリーズ システムの管理に関する新機能について説明します。 
+---
+= Eシリーズ管理の新機能
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetAppコンソールで E シリーズ システムを管理する新機能について説明します。
+
+
+
+== 2025年10月6日
+
+
+
+=== BlueXPはNetAppコンソールになりました
+
+NetAppコンソールは、強化され再構築されたBlueXP基盤上に構築され、オンプレミスとクラウド環境全体にわたるエンタープライズ グレードのNetAppストレージとNetAppデータ サービスの集中管理を提供し、リアルタイムの分析情報、ワークフローの高速化、および高度なセキュリティとコンプライアンスを備えた簡素化された管理を実現します。
+
+変更内容の詳細については、link:https://docs.netapp.com/us-en/bluexp-relnotes/index.html["NetAppコンソールのリリースノート"] 。
+
+
+
+== 2025年5月12日
+
+
+
+=== BlueXPアクセスロールが必要
+
+BlueXPで E シリーズを表示、検出、または管理するには、組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステム ヘルス スペシャリストのいずれかのアクセス ロールが必要です。  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["BlueXPアクセス ロールについて学習します。"^]
+
+
+
+== 2022年9月18日
+
+
+
+=== Eシリーズのサポート
+
+BlueXPから E シリーズ システムを直接検出できるようになりました。  E シリーズ システムを検出すると、ハイブリッド マルチクラウド全体のデータを完全に表示できます。

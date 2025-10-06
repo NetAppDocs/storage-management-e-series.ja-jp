@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: E シリーズ システムを検出したら、容量の配分、ボリューム、ホストに関する詳細を表示できます。 
+---
+= Eシリーズシステムを見る
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+E シリーズ システムを検出したら、容量の配分、ボリューム、ホストに関する詳細を表示できます。
+
+.必要なNetAppコンソールロール
+組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステムヘルススペシャリスト。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["コンソール アクセス ロールについて学習します。"^]
+
+.手順
+. ナビゲーション メニューから、*ストレージ > 管理* を選択します。
+. *システム* ページで、表示する E シリーズ システムを選択します。
+. 利用可能なメニュー オプションのいずれかを選択して、E シリーズ システムの詳細を表示します。
++
+** *概要*: システムの容量配分 (割り当て済み、空き、未割り当ての容量)、ボリューム数、ホスト数などの詳細ビュー。
+** *ボリューム*: 割り当て、RAID レベル、割り当てられた容量など、システム上のボリュームに関する詳細。
+** *ホスト*: ストレージ システム上のボリュームに I/O を送信するホストの詳細。
+
+
+
