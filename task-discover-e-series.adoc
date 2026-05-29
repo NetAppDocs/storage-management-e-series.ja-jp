@@ -22,7 +22,7 @@ E シリーズ システムをNetApp Consoleに追加すると、コンソール
 .開始する前に
 次のものが必要です:
 
-* クラウド プロバイダーまたはオンプレミスにインストールされ、E シリーズ システムへのネットワーク接続を備えたNetApp Consoleエージェント。コンソール エージェントをインストールするには、組織管理者のロールが必要です。組織にコンソール エージェントがあるかどうかわからない場合、またはエージェントを作成する必要がある場合は、コンソール管理者に問い合わせてください。 https://review.docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-your-organization-administrator["組織の管理者に問い合わせてください。"^]
+* クラウド プロバイダまたはオンプレミスにインストールされたNetApp Console エージェントで、Eシリーズ システムへのネットワーク接続が確立されていること。Console エージェントをインストールするには、組織管理者ロールが必要です。組織にConsole エージェントがあるかどうか不明な場合、または作成が必要な場合は、Console 管理者にお問い合わせください。 https://docs.netapp.com/us-en/bluexp-setup-admin/task-user-settings.html#contact-admin["組織の管理者に問い合わせてください。"^]
 * ストレージ システム コントローラのドメイン名または IP アドレス。
 * E シリーズ システムの管理者資格情報。
 

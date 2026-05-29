@@ -6,4 +6,4 @@
 
 === BlueXPアクセスロールが必要
 
-BlueXPで E シリーズを表示、検出、または管理するには、組織管理者、フォルダーまたはプロジェクト管理者、ストレージ管理者、またはシステム ヘルス スペシャリストのいずれかのアクセス ロールが必要です。  https://docs.netapp.com/us-en/bluexp/reference-iam-predefined-roles.html["BlueXPアクセス ロールについて学習します。"^]
+BlueXPでEシリーズを表示、検出、または管理するには、組織管理者、フォルダまたはプロジェクト管理者、ストレージ管理者、またはシステムヘルス スペシャリストのいずれかのアクセスロールが必要です。 https://docs.netapp.com/us-en/console-setup-admin/reference-iam-predefined-roles.html["BlueXPアクセス ロールについて学習します。"^]
